@@ -1517,7 +1517,7 @@ import subprocess
 
 def run_admin_dashboard():
     st.markdown("### 🔒 Admin Dashboard")
-    subprocess.Popen(["streamlit", "run", "das.py"])
+    subprocess.Popen(["streamlit", "run", "dashboard.py"])
     st.success("Admin dashboard launched in a new window.")
 
 # ---------------------- Entry Point ----------------------
