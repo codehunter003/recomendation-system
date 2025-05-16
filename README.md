@@ -28,7 +28,10 @@ The system follows these key steps:
 * **streamlit:** For creating an interactive web interface to showcase the recommendation system.
 * **base64:** Likely used for encoding and decoding data, possibly for handling image display or other media within the Streamlit application.
 
-  ![image](https://github.com/user-attachments/assets/41ac5dcf-b31f-4fcb-879b-954d62885bc8)
+  ![image](https://github.com/user-attachments/assets/eb8066bc-e95c-412a-9bd8-9dfeeb8cfb9c)
+  ![image](https://github.com/user-attachments/assets/0670810b-0866-41ac-928e-c16892805652)
+
+
   ## Setup and Installation
 
 1.  **Clone the repository (if applicable):**
